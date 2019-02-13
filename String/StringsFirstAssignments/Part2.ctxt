@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\r\n\ Part\ 2\:\ Finding\ a\ Gene\ -\ Using\ the\ Simplified\ Algorithm\ Reorganized\r\n\ This\ assignment\ will\ determine\ if\ a\ DNA\ strand\ has\ a\ gene\ in\ it\ \r\n\ by\ using\ the\ simplified\ algorithm\ from\ the\ lesson,\ \r\n\ but\ organizing\ the\ code\ in\ a\ slightly\ different\ way.\r\n\ You\ will\ modify\ the\ method\ findSimpleGene\ to\ have\ three\ parameters,\r\n\ one\ for\ the\ DNA\ string,\ one\ for\ the\ start\ codon\ and\ one\ for\ the\ stop\ codon.\r\n\ Specifically,\ you\ should\ do\ the\ following\:\r\n\ 1.\ Create\ a\ new\ Java\ Class\ named\ Part2\ in\ the\ StringsFirstAssignments\ project.\r\n\ 2.\ Copy\ and\ paste\ the\ two\ methods\ findSimpleGene\ and\ testSimpleGene\ \r\n\ from\ the\ Part1\ class\ into\ the\ Part2\ class.\r\n\ \r\n\ @author\ (Ping\ Cui)\ \r\n\ @version\ (2019\ Jan\ 12)\r\n
+comment1.params=dna\ startCodon\ stopCodon
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testSimpleGene()
+numComments=3

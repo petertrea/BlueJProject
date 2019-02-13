@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\r\n\ Part\ 1\:\ Finding\ a\ Gene\ -\ Using\ the\ Simplified\ Algorithm\r\n\ This\ assignment\ is\ to\ write\ the\ code\ from\ the\ lesson\ from\ scratch\ by\ following\ the\ steps\ below.\r\n\ This\ will\ help\ you\ see\ if\ you\ really\ understood\ how\ to\ put\ the\ code\ together,\ \r\n\ and\ might\ identify\ a\ part\ that\ you\ did\ not\ fully\ understand.\r\n\ If\ you\ get\ stuck,\ then\ you\ can\ go\ back\ and\ watch\ the\ coding\ videos\ that\ go\ with\ this\ lesson\ again.\r\n\ We\ recommend\ you\ try\ this\ with\ many\ of\ the\ future\ Java\ coding\ examples\ \r\n\ before\ starting\ programming\ exercises.\r\n\ \r\n\ Specifically,\ you\ should\ do\ the\ following\:\r\n\ 1.\ Create\ a\ new\ Java\ project\ named\ StringsFirstAssignments.\r\n\ You\ can\ put\ all\ the\ classes\ for\ this\ programming\ exercise\ in\ this\ project.\r\n\ 2.\ Create\ a\ new\ Java\ Class\ named\ Part1.\ The\ following\ methods\ go\ in\ this\ class.\r\n\ \r\n\ @author\ (Ping\ Cui)\ \r\n\ @version\ (2019\ Jan\ 12)\r\n
+comment1.params=dna
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String)
+comment2.params=
+comment2.target=void\ testSimpleGene()
+numComments=3
